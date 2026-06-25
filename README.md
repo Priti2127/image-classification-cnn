@@ -1,5 +1,7 @@
 # 🧠 Image Classification using CNN
 
+🔗 **[Live Demo](https://priti2127.github.io/image-classification-cnn/)** &nbsp;|&nbsp; [GitHub Repo](https://github.com/Priti2127/image-classification-cnn)
+
 A custom Convolutional Neural Network trained on CIFAR-10 to classify images into 10 categories, achieving **92% test accuracy**.
 
 ## 🏆 Results
