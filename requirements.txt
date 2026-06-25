@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+numpy==1.26.2
+Pillow==10.2.0
+matplotlib==3.8.2
+seaborn==0.13.1
+scikit-learn==1.3.2
+flask==3.0.0
