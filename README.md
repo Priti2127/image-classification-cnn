@@ -84,4 +84,4 @@ image-classification-cnn/
 | cat | 83% |
 
 ---
-Made by Priti Walunj
+Made by [Priti Walunj](https://github.com/Priti2127)
